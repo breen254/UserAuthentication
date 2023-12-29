@@ -6,6 +6,6 @@ class User:
         self.password = password
 
     def __str__(self):
-        return f"UID={self.uid}, Username='{self.username}', email='{self.email}', password='{self.password}')"
+        return f"Username: {self.username} email: {self.email}"
 
 

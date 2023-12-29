@@ -1,4 +1,3 @@
-# user_management.py
 import uuid
 import re
 import bcrypt
